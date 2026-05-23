@@ -23,7 +23,8 @@ My approach: deterministic math over black-box AI. Every pixel should be explain
 🔬 Research: Real-time super-resolution, ray tracing, rendering pipelines
 ⚙️  Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (I hate Python) · php · C · C#
 🌐 Languages: PT 🇵🇹 | EN 🇬🇧
-🔴 Benfica member since 2015, fanatical Benfica supporter since the day I born — until I die ⚪
+🔴 Benfica member since 2015, fanatical supporter since the day I born — until I die ⚪
+*Also I'm a Schalke 04 Fan.
 ```
 
 ---
@@ -112,4 +113,87 @@ This project is dead — but it's where **UAAI** was born. That alone makes it w
 </div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=6e7681" />
+</div>
+
+---
+ 
+<br/>
+---
+ 
+<a name="versao-portuguesa"></a>
+ 
+## Sobre Mim
+ 
+Sou estudante de Engenharia Informática na **UBI** (Universidade da Beira Interior) e investigador independente com foco em **computação gráfica em tempo real**, **algoritmos matemáticos de upscaling** e **arquitetura de motores de renderização**.
+ 
+A minha abordagem: matemática determinística em vez de IA de caixa negra. Cada pixel deve ser explicável.
+ 
+```
+📍 Covilhã, Portugal
+🎓 Eng. Informática @ UBI
+🔬 Investigação: Super-resolução em tempo real, ray tracing, pipelines de renderização
+⚙️  Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (odeio Python) · php · C · C#
+🌐 Idiomas: PT 🇵🇹 | EN 🇬🇧
+🔴 Sócio do Benfica desde 2015, adepto fanático desde que nasci — até morrer ⚪
+*Também sou adepto do Schalke 04.
+```
+ 
+---
+ 
+## A Minha História
+ 
+Tudo começou pelos **jogos**.
+ 
+Não só jogar — *perceber* como funcionavam. O que os fazia parecer tão vivos. Porque é que alguns tinham aquela magia e outros não.
+ 
+- **10 anos** — Primeiras linhas de "código" no **Scratch**. Blocos a arrastar, coisas a mexer. A faísca.
+- **13 anos** — Primeiro PC verdadeiramente meu: um **Lenovo Legion Y540** com uma **GTX 1650**. Uma besta que envelheceu como vinho fino. Abri a Unity, aprendi **C#**, e nunca mais parei.
+- **Pré-universidade** — Construí **bots de Discord**, aprendi como os sistemas operativos e o hardware funcionam por dentro, continuei a mexer na Unity. Curioso sobre tudo.
+- **O momento decisivo** — Ray Tracing. Vi pela primeira vez e algo fez clique. *Isto* era a magia que eu queria compreender e construir.
+- **Hoje** — Estudante de Informática na UBI, a investigar upscaling e pipelines de renderização em tempo real, com uma **RTX 5070**. A viver o sonho que tinha aos 13.
+> A GTX 1650 começou a jornada. A RTX 5070 é onde as coisas ficam sérias.
+ 
+---
+ 
+## Projetos em Destaque
+ 
+### Ecossistema UAA — *Upscaler de Auto-Ajustamento*
+> Super-resolução em tempo real baseada em **matemática determinística**, sem redes neuronais.
+ 
+O ecossistema UAA é o meu projeto de investigação principal — um pipeline de upscaling híbrido inspirado no algoritmo **RAISR da Google**, adaptado para uso em tempo real via HLSL Compute Shaders e DirectX.
+ 
+| Módulo | Descrição |
+|--------|-----------|
+| **UAAI** *(Indirect)* | Overlay de pós-processamento espacial, zero latência — funciona em qualquer jogo via DXGI |
+| **UAAD** *(Direct)* | Evolução temporal com vetores de movimento e buffer de profundidade |
+| **MNEMOS** | Banco de filtros baseado em tabelas de hash (RAISR), complexidade O(1) |
+| **RAZOR** | Módulo de estabilidade temporal — clamping histórico & estimação sintética de movimento |
+ 
+`HLSL` `DirectX 12` `C++` `DXGI` `Block Matching` `Compute Shaders` `GLSL` `Vulkan`
+ 
+### PichalUI - *Morto mas importante para caralho*
+> Um **launcher para Windows** feito em C# / WPF que imita uma interface de consola — experiência All-in-One.
+ 
+- Integração profunda com o **Steam** (amigos, chat, conquistas, lançamento de jogos)
+- Suporte nativo a controladores (DualSense / XInput)
+- *"Pichal Brain"* — motor de recomendação inteligente
+- Animações de UI complexas, temas personalizados, Modo de Natal
+- Aloja o UAAI como overlay de pós-processamento
+Este projeto está morto — mas foi aqui que nasceu o **UAAI**. Só por isso vale ser mencionado.
+ 
+---
+ 
+### Web & Projetos Paralelos
+> Um mix de coisas que fui construindo pelo caminho:
+ 
+- **Website de Clube de Padel** — site completo para o clube de padel do meu pai (frontend + backend). Não gosto de padel, mas adoro programar.
+  → [wolfpadel.pt/alpha_challenger](https://wolfpadel.pt/alpha_challenger/)
+- **Scoreboards** — sistemas de marcadores em tempo real para eventos desportivos (também para o clube do meu pai)
+- **Projetos Académicos** — trabalhos em C (estruturas de dados, árvores binárias, algoritmos)
+`HTML` `CSS` `JavaScript` `C` `PHP`
+ 
+---
+ 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&animation=fadeIn" />
 </div>
