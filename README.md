@@ -25,6 +25,7 @@ My approach: deterministic math over black-box AI. Every pixel should be explain
 🌐 Languages: PT 🇵🇹 | EN 🇬🇧
 🔴 Benfica member since 2015, fanatical supporter since the day I born — until I die ⚪
 *Also I'm a Schalke 04 Fan.
+**I have a strong ADHD...
 ```
 
 ---
@@ -136,6 +137,7 @@ A minha abordagem: matemática determinística em vez de IA de caixa negra. Cada
 🌐 Idiomas: PT 🇵🇹 | EN 🇬🇧
 🔴 Sócio do Benfica desde 2015, adepto fanático desde que nasci — até morrer ⚪
 *Também sou adepto do Schalke 04.
+**Eu tenho PHDA pra caralho...
 ```
  
 ---
@@ -146,9 +148,9 @@ Tudo começou pelos **jogos**.
  
 Não só jogar — *perceber* como funcionavam. O que os fazia parecer tão vivos. Porque é que alguns tinham aquela magia e outros não.
  
-- **10 anos** — Primeiras linhas de "código" no **Scratch**. Blocos a arrastar, coisas a mexer. A faísca.
-- **13 anos** — Primeiro PC verdadeiramente meu: um **Lenovo Legion Y540** com uma **GTX 1650**. Uma besta que envelheceu como vinho fino. Abri a Unity, aprendi **C#**, e nunca mais parei.
-- **Pré-universidade** — Construí **bots de Discord**, aprendi como os sistemas operativos e o hardware funcionam por dentro, continuei a mexer na Unity. Curioso sobre tudo.
+- **10 anos** — Primeiras linhas de "código" no **Scratch**. Blocos a arrastar, coisas a mexer. *Plof...* fez-se o Chocapic. Magia aconteu...
+- **13 anos** — Primeiro PC verdadeiramente meu: um **Lenovo Legion Y540** com uma **GTX 1650**. Uma besta que envelheceu como o vinho. Abri a Unity, aprendi **C#**, e nunca mais parei.
+- **Pré-universidade** — Construí **bots de Discord**, aprendi como os sistemas operativos e o hardware funcionam por dentro, continuei a mexer na Unity. Curioso sobre como tudo funcionava.
 - **O momento decisivo** — Ray Tracing. Vi pela primeira vez e algo fez clique. *Isto* era a magia que eu queria compreender e construir.
 - **Hoje** — Estudante de Informática na UBI, a investigar upscaling e pipelines de renderização em tempo real, com uma **RTX 5070**. A viver o sonho que tinha aos 13.
 > A GTX 1650 começou a jornada. A RTX 5070 é onde as coisas ficam sérias.
