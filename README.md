@@ -104,6 +104,7 @@ This project is dead — but it's where **UAAI** was born. That alone makes it w
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
  
 </div>
+
 ---
  
 ## GitHub Stats
