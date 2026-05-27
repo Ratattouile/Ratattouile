@@ -21,8 +21,9 @@ My approach: deterministic math over black-box AI. Every pixel should be explain
 📍 Covilhã, Portugal
 🎓 CS @ UBI
 🔬 Research: Real-time super-resolution, ray tracing, rendering pipelines
-⚙️  Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (I hate Python) · php · C · C#
+⚙️ Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (I hate Python) · php · C · C#
 🌐 Languages: PT 🇵🇹 | EN 🇬🇧
+🌍 Nationalities: Portuguese 🇵🇹 | Angolan 🇦🇴
 🔴 Benfica member since 2015, fanatical supporter since the day I born — until I die ⚪
 *Also I'm a Schalke 04 Fan.
 **I have a strong ADHD...
@@ -120,8 +121,6 @@ This project is dead — but it's where **UAAI** was born. That alone makes it w
 ---
  
 <br/>
----
- 
 <a name="versao-portuguesa"></a>
  
 ## Sobre Mim
@@ -134,8 +133,9 @@ A minha abordagem: matemática determinística em vez de IA de caixa negra. Cada
 📍 Covilhã, Portugal
 🎓 Eng. Informática @ UBI
 🔬 Investigação: Super-resolução em tempo real, ray tracing, pipelines de renderização
-⚙️  Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (odeio Python) · php · C · C#
+⚙️ Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (odeio Python) · php · C · C#
 🌐 Idiomas: PT 🇵🇹 | EN 🇬🇧
+🌍 Nationalities: Portuguese 🇵🇹 | Angolan 🇦🇴
 🔴 Sócio do Benfica desde 2015, adepto fanático desde que nasci — até morrer ⚪
 *Também sou adepto do Schalke 04.
 **Eu tenho PHDA pra caralho...
