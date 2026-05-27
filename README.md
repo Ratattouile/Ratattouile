@@ -135,7 +135,7 @@ A minha abordagem: matemática determinística em vez de IA de caixa negra. Cada
 🔬 Investigação: Super-resolução em tempo real, ray tracing, pipelines de renderização
 ⚙️ Stack: C++ · HLSL · DirectX 12 · Vulkan · C# · WPF · OpenGL · Java · JavaScript · Python (odeio Python) · php · C · C#
 🌐 Idiomas: PT 🇵🇹 | EN 🇬🇧
-🌍 Nationalities: Portuguese 🇵🇹 | Angolan 🇦🇴
+🌍 Nationalities: Portuguesa 🇵🇹 | Angolana 🇦🇴
 🔴 Sócio do Benfica desde 2015, adepto fanático desde que nasci — até morrer ⚪
 *Também sou adepto do Schalke 04.
 **Eu tenho PHDA pra caralho...
